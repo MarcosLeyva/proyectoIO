@@ -1,0 +1,2 @@
+npm info using npm@11.13.0
+npm info using node@v24.16.0
